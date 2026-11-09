@@ -1,0 +1,6 @@
+homepage: "https://yourcookiebanner.com"
+documentation: "https://yourcookiebanner.com/en/cookie-banner/google-tag-manager"
+versions:
+  # Latest version first. "sha" is the commit in THIS public repository that contains the template version.
+  - sha: 6e0a7cbe948826cc7b93cece41f980c964b9c2c6
+    changeNotes: Initial release.
